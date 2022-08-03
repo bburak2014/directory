@@ -1,0 +1,229 @@
+{
+  "directory": [
+    {
+      "id": 1,
+      "LastName": "Cardinal",
+      "FirstName": "Father",
+      "Phone": "+1 415-913-9775",
+      "userid": 1,
+      "image": "image/1.jpg"
+    },
+    {
+      "id": 2,
+      "LastName": "Adams",
+      "FirstName": "Sneezy",
+      "Phone": "+1 412-773-0801",
+      "userid": 1,
+      "image": "image/2.jpg"
+    },
+    {
+      "id": 3,
+      "LastName": "Baker",
+      "FirstName": "Sleepy",
+      "Phone": "+1 219-403-0728",
+      "userid": 1,
+      "image": "image/3.jpg"
+    },
+    {
+      "id": 4,
+      "LastName": "Clark",
+      "FirstName": "Dopey",
+      "Phone": "+1 228-660-1613",
+      "userid": 1,
+      "image": "image/4.jpg"
+    },
+    {
+      "id": 5,
+      "LastName": "Davis",
+      "FirstName": "Doc",
+      "Phone": "+1 218-292-7124",
+      "userid": 1,
+      "image": "image/5.jpg"
+    },
+    {
+      "id": 6,
+      "LastName": "Evans",
+      "FirstName": "Happy",
+      "Phone": "+1 313-630-7365",
+      "userid": 1,
+      "image": "image/6.jpg"
+    },
+    {
+      "id": 7,
+      "LastName": "Frank",
+      "FirstName": "Bashful",
+      "Phone": "+1 582-682-6336",
+      "userid": 1,
+      "image": "image/7.jpg"
+    },
+    {
+      "id": 8,
+      "LastName": "Ghosh",
+      "FirstName": "Grumpy",
+      "Phone": "+1 281-826-0356",
+      "userid": 1,
+      "image": "image/8.jpg"
+    },
+    {
+      "id": 9,
+      "LastName": "Hills",
+      "FirstName": "Mufasa",
+      "Phone": "+1 205-773-1108",
+      "userid": 1,
+      "image": "image/9.jpg"
+    },
+    {
+      "id": 10,
+      "LastName": "Irwin",
+      "FirstName": "Sarabi",
+      "Phone": "+1 224-507-0735",
+      "userid": 1,
+      "image": "image/10.jpg"
+    },
+    {
+      "id": 11,
+      "LastName": "Jones",
+      "FirstName": "Simba",
+      "Phone": "+1 582-282-5039",
+      "userid": 2,
+      "image": "image/11.jpg"
+    },
+    {
+      "id": 12,
+      "LastName": "Klein",
+      "FirstName": "Nala",
+      "Phone": "+1 505-696-9832",
+      "userid": 2,
+      "image": "image/12.jpg"
+    },
+    {
+      "id": 13,
+      "LastName": "Lopez",
+      "FirstName": "Kiara",
+      "Phone": "+1 582-262-9206",
+      "userid": 2,
+      "image": "image/13.jpg"
+    },
+    {
+      "id": 14,
+      "LastName": "Mason",
+      "FirstName": "Kovu",
+      "Phone": "+1 582-600-0509",
+      "userid": 2,
+      "image": "image/14.jpg"
+    },
+    {
+      "id": 15,
+      "LastName": "Nalty",
+      "FirstName": "Timon",
+      "Phone": "+1 607-426-3330",
+      "userid": 2,
+      "image": "image/15.jpg"
+    },
+    {
+      "id": 16,
+      "LastName": "Ochoa",
+      "FirstName": "Pumbaa",
+      "Phone": "+1 203-856-1684",
+      "userid": 2,
+      "image": "image/16.jpg"
+    },
+    {
+      "id": 17,
+      "LastName": "Patel",
+      "FirstName": "Rafiki",
+      "Phone": "+1 582-322-3246",
+      "userid": 2,
+      "image": "image/17.jpg"
+    },
+    {
+      "id": 18,
+      "LastName": "Quinn",
+      "FirstName": "Ark",
+      "Phone": "+1 582-333-0040",
+      "userid": 2,
+      "image": "image/18.jpg"
+    },
+    {
+      "id": 19,
+      "LastName": "Reily",
+      "FirstName": "Ben",
+      "Phone": "+1 582-222-1047",
+      "userid": 2,
+      "image": "image/19.jpg"
+    },
+    {
+      "id": 20,
+      "LastName": "Smith",
+      "FirstName": "Boris",
+      "Phone": "+1 203-228-5470",
+      "userid": 2,
+      "image": "image/20.jpg"
+    },
+    {
+      "id": 21,
+      "LastName": "Trott",
+      "FirstName": "Cane",
+      "Phone": "+1 582-201-3231",
+      "userid": 2,
+      "image": "image/21.jpg"
+    },
+    {
+      "id": 22,
+      "LastName": "Usman",
+      "FirstName": "Demir",
+      "Phone": "+1 505-482-9617",
+      "userid": 2,
+      "image": "image/22.jpg"
+    },
+    {
+      "id": 23,
+      "LastName": "Valdo",
+      "FirstName": "Eagle",
+      "Phone": "+1 614-805-1016",
+      "userid": 2
+    },
+    {
+      "id": 24,
+      "LastName": "White",
+      "FirstName": "Fatma",
+      "Phone": "+1 516-595-0310",
+      "userid": 2
+    },
+    {
+      "id": 25,
+      "LastName": "Xiang",
+      "FirstName": "Gong",
+      "Phone": "+1 531-422-0527",
+      "userid": 2
+    },
+    {
+      "id": 26,
+      "LastName": "Yakub",
+      "FirstName": "Leyla",
+      "Phone": "+1 582-500-4127",
+      "userid": 2
+    },
+    {
+      "id": 27,
+      "LastName": "Zafar",
+      "FirstName": "Orhan",
+      "Phone": "+1 217-956-1581",
+      "userid": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "UserName": "test",
+      "email": "test@gmail.com",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "UserName": "test2",
+      "email": "test2@gmail.com",
+      "password": 123456
+    }
+  ]
+}
